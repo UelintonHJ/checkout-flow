@@ -3,7 +3,7 @@
 Uma **simulação de fluxo de checkout** focada em **usabilidade, clareza e feedback visual**, recriando a experiência de revisar pedidos e receber confirmação, sem backend real.
 O objetivo é demonstrar **controle de estado, feedback para o usuário e redução de fricção.**
 
-[!GIF do fluxo de checkout: idle -> loading -> sucesso.](src/assets/checkout-flow.gif)
+![GIF do fluxo de checkout: idle -> loading -> sucesso.](src/assets/checkout-flow.gif)
 
 ---
 
