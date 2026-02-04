@@ -4,6 +4,7 @@ Uma **simulação de fluxo de checkout** focada em **usabilidade, clareza e feed
 O objetivo é demonstrar **controle de estado, feedback para o usuário e redução de fricção.**
 
 <p align="center">
+  <br />
   <img src="src/assets/checkout-flow.gif" alt="GIF do fluxo de checkout" style="max-width: 100%;"/>
 </p>
 
